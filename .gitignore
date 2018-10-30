@@ -7,6 +7,9 @@ __pycache__/
 *.so
 
 notebooks/data/
+notebooks/keras_submission.csv
+notebooks/tensorflow_submission.csv
+notebooks/pytorch_submission.csv
 
 # Distribution / packaging
 .Python
